@@ -1,0 +1,9 @@
+email_text,label
+"Your account has been suspended. Click here to verify.",phishing
+"Don't miss our summer sale! Up to 50% off.",legitimate
+"Urgent: Your password will expire today. Reset now.",phishing
+"Weekly newsletter: Latest tech news and articles.",legitimate
+"Confirm your bank information immediately.",phishing
+"Meeting rescheduled to Thursday at 3 PM.",legitimate
+"Claim your prize! You are a lucky winner.",phishing
+"Project update: attached are the new designs.",legitimate
